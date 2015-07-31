@@ -12,7 +12,7 @@ Expires: December 26, 2015                                 June 24, 2015
 
 Abstract
 
-   When BIER technology is deployed on the existing network, there are
+   As soon as BIER technology is deployed on the existing network, there are
    some network points that can not support BIER function.  BIER will
    transit these points transparently.  In this document, the BIER-
    enabled points that connected by non-BIER points, will make a
